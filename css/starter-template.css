@@ -1,0 +1,42 @@
+body {
+  padding-top: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 1.428571429;
+color: #46472B;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-inverse {
+background-color: #F1F1DC;
+border-color: #FFFFFF;
+}
+
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+color: #000;
+background-color: #F8F8DC;
+}
+
+.col-lg-4 {
+ float: inherit;   
+    
+}
+
+.row {
+margin-right: 0px;
+margin-left: 0px;
+}
+
+a{
+    color: #999966;
+    
+}
+
+h2{
+    
+ color: #663366;   
+}
