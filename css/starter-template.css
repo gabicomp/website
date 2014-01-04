@@ -1,13 +1,17 @@
 body {
-  padding-top: 50px;
+  padding-top: 25px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 14px;
 line-height: 1.428571429;
 color: #46472B;
 }
 .starter-template {
-  padding: 40px 15px;
-  text-align: center;
+    
+    padding-top:140px;
+	padding-bottom:20px;
+	padding-left:15px;
+	padding-right:15px;
+    text-align: center;
 }
 
 .navbar-inverse {
@@ -21,27 +25,39 @@ color: #000;
 background-color: #F8F8DC;
 }
 
-.col-lg-4 {
- float: inherit;   
-    
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color:#663366;
+    background-color: transparent;
 }
 
+.col-lg-4 {
+ float: inherit;   
+  padding: 10px 10px;
+  margin-bottom: 40px;
+  background-color:#F8F8DC;
+}
+
+.jumbotron{
+	
+	padding: 5px 0px;
+	background-color: transparent;
+	color: #663366;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
 .row {
 margin-right: 0px;
 margin-left: 0px;
 }
 
-a{
-    color: #999966;
-    
+a:hover{
+	
+	text-decoration:none;
 }
 
-h2{
-    
- color: #663366;   
-}
 
-h2 .gepostet{
+
+.gepostet{
 	
 	font-size: 14px;
 }
