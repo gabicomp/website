@@ -44,6 +44,7 @@ background-color: #F8F8DC;
 	color: #663366;
 	font-size: 20px;
 	margin-bottom: 5px;
+
 }
 .row {
 margin-right: 0px;
@@ -60,5 +61,7 @@ a:hover{
 .gepostet{
 	
 	font-size: 14px;
+	margin-top: 10px;
 }
+
 
