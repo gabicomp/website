@@ -17,6 +17,7 @@ color: #46472B;
 .navbar-inverse {
 background-color: #F1F1DC;
 border-color: #FFFFFF;
+color: red;
 }
 
 
@@ -27,7 +28,15 @@ background-color: #F8F8DC;
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
     color:#663366;
-    background-color: transparent;
+    background-color: #EEEEDD;
+}
+
+
+.navbar-inverse .navbar-nav > li > a{
+	
+	color: #4C4C4C;
+	
+	
 }
 
 .col-lg-4 {
